@@ -22,6 +22,12 @@ Data was stored in a PostgreSQL database, simulating operations from 2010 to 202
 
 Refer to the below ERD diagram for a visual representation of the relationships between these data tables:
 
+
+<p align="center">
+  <img src="012%20ERD%20Diagram.png" alt="ERD Diagram" width="800" />
+</p>
+
+
 <br>
 
 ### 🧩 Key Tasks & SQL Challenges
